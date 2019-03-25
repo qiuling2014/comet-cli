@@ -1,0 +1,19 @@
+{
+  "name": "comet-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "comet": "bin/comet"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cli-table": "^0.3.1",
+    "commander": "^2.9.0",
+    "download-git-repo": "^1.1.0",
+    "inquirer": "^6.2.2",
+    "ora": "^1.2.0"
+  },
+  "author": "Ling.Q",
+  "license": "ISC"
+}
