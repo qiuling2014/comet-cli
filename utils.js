@@ -30,4 +30,4 @@ function listTable(tplList, lyric) {
   }
 }
 
-exports.listTable = listTable
+exports.listTable = listTable;
